@@ -1,0 +1,3 @@
+git add 基本情報技術者試験計算.pdf
+git commit -m "基本情報技術者試験学習"
+git push origin master
